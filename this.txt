@@ -1,2 +1,4 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKpbuS3791Se4Oo4FsYtk6k6v4KlTM/XcROfjh78GC6u satwikverma18@gmail.com
-Satwik ki SSH key
+Diljit Dosanjh
+Karan Aujla
+Satinder Sartaaj
+Sidhu Moose Wala
