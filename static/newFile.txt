@@ -1,0 +1,3 @@
+Pehli baar likhna
+Sab staged kar diya
+Ab new_one me change kara jisse pwd ko staging area se compare kar sake using "git diff"
